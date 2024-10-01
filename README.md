@@ -2,7 +2,9 @@
 
 [![Video Demonstrasi](https://img.youtube.com/vi/VCmmNXurnow/0.jpg)](https://youtu.be/VCmmNXurnow)
 
-CariKos adalah aplikasi web inovatif yang dirancang untuk memudahkan pencarian properti kos di berbagai lokasi. Menggabungkan peta interaktif dan daftar properti yang menarik, proyek ini menawarkan pengalaman pengguna yang intuitif dan efisien.
+*Klik Gambar Diatas Untuk Melihat Video*
+
+CariKos adalah aplikasi web inovatif yang dirancang untuk memudahkan pencarian properti kos di berbagai lokasi. Menggabungkan peta interaktif  yang mengimplementasikan teknologi Sistem Informasi Geografis (SIG / GIS) serta menampilkan daftar properti, proyek ini menawarkan pengalaman pengguna yang intuitif dan efisien.
 
 ## Fitur Utama
 
